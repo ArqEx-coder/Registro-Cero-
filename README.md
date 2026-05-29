@@ -9,9 +9,15 @@ REGISTRO CERO es un juego en primera persona basado en un simulador de ROV en el
 Datos Técnicos del Juego
 
 Formato: Videojuego
+
 Motor de Juego (Opcional): Godot 4.6 
-Género(s): Simulador 
+
+Género(s): Simulador
+
 Cantidad de Jugadores: 1
+
 Edades Recomendadas: 10-99
+
 Duración de la Partida: 20 minutos 
+
 Enlace en itch.io: 
