@@ -49,7 +49,7 @@ La información recopilada permitirá documentar el estado de conservación de l
 A medida que avanza la exploración, el jugador enfrentará desafíos como baja visibilidad, limitaciones de energía, navegación en espacios reducidos y condiciones ambientales complejas, poniendo a prueba sus habilidades de observación, exploración y documentación científica.
 
 <img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/4ffa1f6a-f525-47d5-93ca-a952f0c74469" />
-
+<img width="400" height="375" alt="Image" src="https://github.com/user-attachments/assets/df01cc01-84be-4270-bbc3-01bc0384d570" />
 
 
 
