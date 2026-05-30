@@ -24,6 +24,8 @@ Duración de la Partida: 20 minutos
 Enlace en itch.io: 
 
 
+
+
 Datos del Equipo
 
 Nombre del Equipo (Opcional): -
@@ -33,7 +35,11 @@ Canal en Discord: 29
 Integrantes: Yo chema010._21357
 
 
+
+
 Premisa del juego
+
+
 Registro Cero es un videojuego de exploración subacuática en el que el jugador toma el control de un vehículo operado remotamente (ROV) desplegado en distintos escenarios de gran importancia científica y arqueológica, como la Laguna del Sol del Nevado de Toluca y el sistema de cavernas inundadas de Hoyo Negro.
 La misión principal consiste en localizar restos arqueológicos y paleontológicos ocultos bajo el agua mediante el uso de diversos sensores especializados, entre ellos sonar de exploración y sonar de barrido lateral. Una vez detectados posibles hallazgos, el jugador deberá inspeccionarlos detalladamente y realizar registros fotogramétricos para generar modelos tridimensionales precisos.
 La información recopilada permitirá documentar el estado de conservación de los objetos y sitios descubiertos, proporcionando evidencia digital que podrá ser utilizada por especialistas para planificar futuras investigaciones, analizar los hallazgos y contribuir a su preservación.
