@@ -25,8 +25,7 @@ Enlace en itch.io:
 
 
 
-
-Datos del Equipo
+# Datos del Equipo
 
 Nombre del Equipo (Opcional): -
 
@@ -39,7 +38,7 @@ Integrantes: Yo chema010._21357
 
 
 
-Premisa del juego
+# Premisa del juego
 
 
 
@@ -55,7 +54,7 @@ A medida que avanza la exploración, el jugador enfrentará desafíos como baja 
 
 
 
-Impacto educativo y de divulgación
+# Impacto educativo y de divulgación
 
 
 ¿Cómo comunica la importancia de la conservación del patrimonio cultural subacuático?
