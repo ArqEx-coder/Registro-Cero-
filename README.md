@@ -23,7 +23,7 @@ Duración de la Partida: 20 minutos
 
 Enlace en itch.io: 
 
-
+<img width="400" height="197" alt="Image" src="https://github.com/user-attachments/assets/747e01aa-4e3c-4e5c-8f95-0f575136a5c0" />
 
 # Datos del Equipo
 
