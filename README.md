@@ -5,7 +5,7 @@ El tema principal de REGISTRO CERO es la fragilidad del patrimonio cultural sume
 
 <img width="680" height="396" alt="Image" src="https://github.com/user-attachments/assets/3340359e-3066-4548-b8b0-0b7f9075d222" />
                                                   
-                                                 ROV de la compañia BlueRobotics usado bajo licencia GPL 2.0 
+                                        ROV de la compañia BlueRobotics usado bajo licencia GPL 2.0 
 
 # Datos Técnicos del Juego
 
