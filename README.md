@@ -54,3 +54,20 @@ A medida que avanza la exploración, el jugador enfrentará desafíos como baja 
 
 
 
+
+Impacto educativo y de divulgación
+
+
+¿Cómo comunica la importancia de la conservación del patrimonio cultural subacuático?
+El juego comunica la importancia de la conservación del patrimonio cultural subacuático al permitir que el jugador participe en procesos reales de exploración, documentación y registro de restos arqueológicos y paleontológicos. A través del uso de tecnologías como el sonar y la fotogrametría, el jugador comprende que la documentación precisa es fundamental para estudiar y preservar estos bienes sin alterar su contexto original. 
+
+
+¿Cómo incorpora elementos del tema secreto “Hoyo Negro”?
+En un nivel aparte donde el ROV hace un recorrido haciendo el mapeo de la caverna y material arqueológico del sitio.  
+
+
+¿Cómo se promueve el trabajo en equipo de los diferentes expertos en la labor de conservación? 
+
+En que el ROV obtiene información tanto del ambiente en donde se encuentra el sitio y también genera fotogrametrias para ver el estado físico dando valiosa información tanto a arqueólogos para su investigación y a conservadores les da información del tipo de materia que se encuentra.   
+
+
