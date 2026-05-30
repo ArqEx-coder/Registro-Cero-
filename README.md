@@ -37,7 +37,11 @@ Integrantes: Yo chema010._21357
 
 
 
+
+
 Premisa del juego
+
+
 
 
 Registro Cero es un videojuego de exploración subacuática en el que el jugador toma el control de un vehículo operado remotamente (ROV) desplegado en distintos escenarios de gran importancia científica y arqueológica, como la Laguna del Sol del Nevado de Toluca y el sistema de cavernas inundadas de Hoyo Negro.
@@ -45,7 +49,7 @@ La misión principal consiste en localizar restos arqueológicos y paleontológi
 La información recopilada permitirá documentar el estado de conservación de los objetos y sitios descubiertos, proporcionando evidencia digital que podrá ser utilizada por especialistas para planificar futuras investigaciones, analizar los hallazgos y contribuir a su preservación.
 A medida que avanza la exploración, el jugador enfrentará desafíos como baja visibilidad, limitaciones de energía, navegación en espacios reducidos y condiciones ambientales complejas, poniendo a prueba sus habilidades de observación, exploración y documentación científica.
 
-
+<img width="400" height="230" alt="Image" src="https://github.com/user-attachments/assets/4ffa1f6a-f525-47d5-93ca-a952f0c74469" />
 
 
 
